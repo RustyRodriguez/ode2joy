@@ -1,0 +1,11 @@
+[package]
+name = "ode2joy"
+version = "0.1.0"
+edition = "2021"
+authors = ["Tyler Rodriguez tyrodriguez.dev@proton.me"]
+description = "ODE Solver"
+license = "MIT"
+repository = ""
+
+[dependencies]
+ndarray = "0.15"
